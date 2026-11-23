@@ -1,0 +1,6 @@
+@IE3_Q2_32E3_Ayap_DaimeryGold_HostAddress = http://localhost:5039
+
+GET {{IE3_Q2_32E3_Ayap_DaimeryGold_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
